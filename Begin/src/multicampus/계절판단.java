@@ -25,11 +25,11 @@ public class 계절판단 {
 			break;
 			
 		case 6,7,8 : 
-			result = ("여어어어어어름");
+			result = "여어어어어어름";
 			break;
 			
 		case 9,10,11 : 
-			result = ("가을");
+			result = "가을";
 			break;
 			
 		default :
