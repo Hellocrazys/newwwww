@@ -1,4 +1,4 @@
-package day08;
+package multicampus;
 import java.util.*;
 
 public class 학점계산 {
