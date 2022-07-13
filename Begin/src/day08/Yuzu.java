@@ -1,7 +1,8 @@
 package day08;
 
 public class Yuzu {
-	
+	//아이고야.......
+	//뻐킹헬
 	private int yuzu;
 	private int sugar;
 	
